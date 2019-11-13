@@ -1,3 +1,3 @@
 # Projecta1
 
-0touch demo
+0 touch demo re-deploy
